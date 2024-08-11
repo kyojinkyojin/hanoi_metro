@@ -1,0 +1,3013 @@
+{
+    "features": [
+      {
+        "geometry": {
+          "x": 11780645.16,
+          "y": 2395257.55,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 1,
+          "Station": "Cat Linh",
+          "Line": "2A",
+          "Long": 105.827336,
+          "Lat": 21.02833496,
+          "__OBJECTID": 0
+        }
+      },
+      {
+        "geometry": {
+          "x": 11796077.15,
+          "y": 2391986.38,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 17,
+          "Station": "Duong Xa",
+          "Line": "8",
+          "Long": 105.965964,
+          "Lat": 21.000904,
+          "__OBJECTID": 176
+        }
+      },
+      {
+        "geometry": {
+          "x": 11780422.18,
+          "y": 2394284.4,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 2,
+          "Station": "La Thanh",
+          "Line": "2A",
+          "Long": 105.825333,
+          "Lat": 21.02017497,
+          "__OBJECTID": 1
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779764.4,
+          "y": 2393619.33,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 3,
+          "Station": "Thai Ha",
+          "Line": "2A",
+          "Long": 105.819424,
+          "Lat": 21.01459801,
+          "__OBJECTID": 2
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779385.69,
+          "y": 2392654.73,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 5,
+          "Station": "Lang",
+          "Line": "2A",
+          "Long": 105.816022,
+          "Lat": 21.00650897,
+          "__OBJECTID": 3
+        }
+      },
+      {
+        "geometry": {
+          "x": 11778971.47,
+          "y": 2391609.82,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 6,
+          "Station": "Thuong Dinh",
+          "Line": "2A",
+          "Long": 105.812301,
+          "Lat": 20.99774596,
+          "__OBJECTID": 4
+        }
+      },
+      {
+        "geometry": {
+          "x": 11778037.39,
+          "y": 2390921,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 7,
+          "Station": "Vanh Dai 3",
+          "Line": "2A",
+          "Long": 105.80391,
+          "Lat": 20.99196898,
+          "__OBJECTID": 5
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776829.68,
+          "y": 2390005.68,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 8,
+          "Station": "Phung Khoang",
+          "Line": "2A",
+          "Long": 105.793061,
+          "Lat": 20.98429204,
+          "__OBJECTID": 6
+        }
+      },
+      {
+        "geometry": {
+          "x": 11775917.19,
+          "y": 2389230.6,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 9,
+          "Station": "Van Quan",
+          "Line": "2A",
+          "Long": 105.784864,
+          "Lat": 20.97779101,
+          "__OBJECTID": 7
+        }
+      },
+      {
+        "geometry": {
+          "x": 11774808.45,
+          "y": 2388322.39,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 10,
+          "Station": "Ha Dong",
+          "Line": "2A",
+          "Long": 105.774904,
+          "Lat": 20.97017298,
+          "__OBJECTID": 8
+        }
+      },
+      {
+        "geometry": {
+          "x": 11773905.76,
+          "y": 2387563.24,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 11,
+          "Station": "La Khe",
+          "Line": "2A",
+          "Long": 105.766795,
+          "Lat": 20.96380497,
+          "__OBJECTID": 9
+        }
+      },
+      {
+        "geometry": {
+          "x": 11772728.5,
+          "y": 2386588.86,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 12,
+          "Station": "Van Khe",
+          "Line": "2A",
+          "Long": 105.7562195,
+          "Lat": 20.95563111,
+          "__OBJECTID": 10
+        }
+      },
+      {
+        "geometry": {
+          "x": 11771820.43,
+          "y": 2385861.71,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 13,
+          "Station": "Yen Nghia",
+          "Line": "2A",
+          "Long": 105.7480621,
+          "Lat": 20.94953099,
+          "__OBJECTID": 11
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782943.46,
+          "y": 2422514.61,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 1,
+          "Station": "Railway Pho Giua",
+          "Line": "2",
+          "Long": 105.847982,
+          "Lat": 21.256707,
+          "__OBJECTID": 12
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782263.3,
+          "y": 2420654.58,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 2,
+          "Station": "Tien Duoc 1",
+          "Line": "2",
+          "Long": 105.841872,
+          "Lat": 21.24113403,
+          "__OBJECTID": 13
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782279.1,
+          "y": 2419336.8,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 3,
+          "Station": "Tien Duoc 2",
+          "Line": "2",
+          "Long": 105.842014,
+          "Lat": 21.23010001,
+          "__OBJECTID": 14
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782150.75,
+          "y": 2416701.66,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 4,
+          "Station": "Phu Lo 1",
+          "Line": "2",
+          "Long": 105.840861,
+          "Lat": 21.20803302,
+          "__OBJECTID": 15
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777583.87,
+          "y": 2417387.78,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 5,
+          "Station": "Noi Bai International Airport",
+          "Line": "2",
+          "Long": 105.799836,
+          "Lat": 21.21377899,
+          "__OBJECTID": 16
+        }
+      },
+      {
+        "geometry": {
+          "x": 11781447.55,
+          "y": 2415777.36,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 6,
+          "Station": "Phu Lo 2",
+          "Line": "2",
+          "Long": 105.834544,
+          "Lat": 21.20029203,
+          "__OBJECTID": 17
+        }
+      },
+      {
+        "geometry": {
+          "x": 11780949.61,
+          "y": 2413974.38,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 7,
+          "Station": "Nguyen Khe 1",
+          "Line": "2",
+          "Long": 105.830071,
+          "Lat": 21.18519096,
+          "__OBJECTID": 18
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779908.57,
+          "y": 2411868.22,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 8,
+          "Station": "Nguyen Khe 2",
+          "Line": "2",
+          "Long": 105.8207191,
+          "Lat": 21.16754858,
+          "__OBJECTID": 19
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779494.7990581,
+          "y": 2410523.51640037,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 9,
+          "Station": "Van Noi 1",
+          "Line": "2",
+          "Long": 105.819384,
+          "Lat": 21.15712402,
+          "__OBJECTID": 20
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779173.6569164,
+          "y": 2408669.09565745,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 10,
+          "Station": "Van Noi 2",
+          "Line": "2",
+          "Long": 105.8191813,
+          "Lat": 21.14142747,
+          "__OBJECTID": 21
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779366.2709761,
+          "y": 2407698.94599938,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 11,
+          "Station": "Van Noi 3",
+          "Line": "2",
+          "Long": 105.8270485,
+          "Lat": 21.13121723,
+          "__OBJECTID": 22
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779288.092005,
+          "y": 2406053.93582841,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 12,
+          "Station": "Vinh Ngoc 1",
+          "Line": "2",
+          "Long": 105.8271616,
+          "Lat": 21.1184738,
+          "__OBJECTID": 23
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779172.2657196,
+          "y": 2405077.86796736,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 13,
+          "Station": "Vinh Ngoc 2",
+          "Line": "2",
+          "Long": 105.8269794,
+          "Lat": 21.10809231,
+          "__OBJECTID": 24
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777945.6289829,
+          "y": 2402497.81710941,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 14,
+          "Station": "Phu Thuong",
+          "Line": "2",
+          "Long": 105.816647,
+          "Lat": 21.08466699,
+          "__OBJECTID": 25
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777645.108125,
+          "y": 2401323.99182778,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 15,
+          "Station": "Nam Thang Long",
+          "Line": "2",
+          "Long": 105.8120162,
+          "Lat": 21.07743087,
+          "__OBJECTID": 26
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777340.9043457,
+          "y": 2399328.42566305,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 16,
+          "Station": "Ngoai Giao Doan",
+          "Line": "2",
+          "Long": 105.804434,
+          "Lat": 21.06254504,
+          "__OBJECTID": 27
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777348.2289742,
+          "y": 2398622.62719925,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 17,
+          "Station": "Tay Ho Tay",
+          "Line": "2",
+          "Long": 105.804414,
+          "Lat": 21.05486603,
+          "__OBJECTID": 28
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777347.051032,
+          "y": 2397398.9452005,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 18,
+          "Station": "Buoi",
+          "Line": "2",
+          "Long": 105.8060342,
+          "Lat": 21.04741073,
+          "__OBJECTID": 29
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779447.51,
+          "y": 2396924.63,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 19,
+          "Station": "Quan Ngua",
+          "Line": "2",
+          "Long": 105.8165774,
+          "Lat": 21.0423126,
+          "__OBJECTID": 30
+        }
+      },
+      {
+        "geometry": {
+          "x": 11780929.09,
+          "y": 2396739.18,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 20,
+          "Station": "Bach Thao",
+          "Line": "2",
+          "Long": 105.8298866,
+          "Lat": 21.04075773,
+          "__OBJECTID": 31
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782100.55,
+          "y": 2396762.11,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 21,
+          "Station": "Ho Tay",
+          "Line": "2",
+          "Long": 105.84041,
+          "Lat": 21.04095001,
+          "__OBJECTID": 32
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782916.44,
+          "y": 2396644.11,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 22,
+          "Station": "Hang Dau",
+          "Line": "2",
+          "Long": 105.8477393,
+          "Lat": 21.03996066,
+          "__OBJECTID": 33
+        }
+      },
+      {
+        "geometry": {
+          "x": 11783586.88,
+          "y": 2395301.09,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 23,
+          "Station": "Hoan Kiem",
+          "Line": "2",
+          "Long": 105.853762,
+          "Lat": 21.02870004,
+          "__OBJECTID": 34
+        }
+      },
+      {
+        "geometry": {
+          "x": 11783434.82,
+          "y": 2394398.29,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 24,
+          "Station": "Tran Hung Dao",
+          "Line": "2",
+          "Long": 105.852396,
+          "Lat": 21.02112997,
+          "__OBJECTID": 35
+        }
+      },
+      {
+        "geometry": {
+          "x": 11783346.48,
+          "y": 2392914.94,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 25,
+          "Station": "Cau Den",
+          "Line": "2",
+          "Long": 105.8516024,
+          "Lat": 21.0086911,
+          "__OBJECTID": 36
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782356.92,
+          "y": 2392797.47,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 26,
+          "Station": "Bach Khoa",
+          "Line": "2",
+          "Long": 105.842713,
+          "Lat": 21.007706,
+          "__OBJECTID": 37
+        }
+      },
+      {
+        "geometry": {
+          "x": 11781074.41,
+          "y": 2392616.99,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 27,
+          "Station": "Kim Lien",
+          "Line": "2",
+          "Long": 105.8311921,
+          "Lat": 21.00619244,
+          "__OBJECTID": 38
+        }
+      },
+      {
+        "geometry": {
+          "x": 11780545.19,
+          "y": 2392882.02,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 28,
+          "Station": "Chua Boc",
+          "Line": "2",
+          "Long": 105.826438,
+          "Lat": 21.00841504,
+          "__OBJECTID": 39
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779818.92,
+          "y": 2392200.81,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 29,
+          "Station": "Nga Tu So",
+          "Line": "2",
+          "Long": 105.8199138,
+          "Lat": 21.00270229,
+          "__OBJECTID": 40
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779331.79,
+          "y": 2391874.64,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 30,
+          "Station": "Thuong Dinh",
+          "Line": "2",
+          "Long": 105.8155378,
+          "Lat": 20.99996685,
+          "__OBJECTID": 41
+        }
+      },
+      {
+        "geometry": {
+          "x": 11778116.58,
+          "y": 2392485.09,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 31,
+          "Station": "Nhan Chinh",
+          "Line": "2",
+          "Long": 105.8046214,
+          "Lat": 21.00508633,
+          "__OBJECTID": 42
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777531.23,
+          "y": 2393105.22,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 32,
+          "Station": "Tran Duy Hung",
+          "Line": "2",
+          "Long": 105.7993631,
+          "Lat": 21.01028681,
+          "__OBJECTID": 43
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776483.79,
+          "y": 2394622.5,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 33,
+          "Station": "Yen Hoa",
+          "Line": "2",
+          "Long": 105.7899538,
+          "Lat": 21.02301007,
+          "__OBJECTID": 44
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776410.15,
+          "y": 2396128.37,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 34,
+          "Station": "Xuan Thuy",
+          "Line": "2",
+          "Long": 105.7892923,
+          "Lat": 21.03563651,
+          "__OBJECTID": 45
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776524.02,
+          "y": 2397364.74,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 35,
+          "Station": "Hoang Quoc Viet",
+          "Line": "2",
+          "Long": 105.7903152,
+          "Lat": 21.04600253,
+          "__OBJECTID": 46
+        }
+      },
+      {
+        "geometry": {
+          "x": 11792195.75,
+          "y": 2403920.36,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 1,
+          "Station": "Yen Thuong",
+          "Line": "1",
+          "Long": 105.9310968,
+          "Lat": 21.10095404,
+          "__OBJECTID": 47
+        }
+      },
+      {
+        "geometry": {
+          "x": 11790618.73,
+          "y": 2402171.31,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 2,
+          "Station": "Yen Vien",
+          "Line": "1",
+          "Long": 105.9169301,
+          "Lat": 21.08629486,
+          "__OBJECTID": 48
+        }
+      },
+      {
+        "geometry": {
+          "x": 11789491.58,
+          "y": 2400897.99,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 3,
+          "Station": "Cau Duong",
+          "Line": "1",
+          "Long": 105.9068048,
+          "Lat": 21.07562197,
+          "__OBJECTID": 49
+        }
+      },
+      {
+        "geometry": {
+          "x": 11788534.3,
+          "y": 2399857.01,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 4,
+          "Station": "Duc Giang",
+          "Line": "1",
+          "Long": 105.8982054,
+          "Lat": 21.06689597,
+          "__OBJECTID": 50
+        }
+      },
+      {
+        "geometry": {
+          "x": 11786524.43,
+          "y": 2398127.1,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 5,
+          "Station": "Long Bien Bac",
+          "Line": "1",
+          "Long": 105.8801504,
+          "Lat": 21.05239389,
+          "__OBJECTID": 51
+        }
+      },
+      {
+        "geometry": {
+          "x": 11784972.78,
+          "y": 2397393.2,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 5,
+          "Station": "Long Bien Nam",
+          "Line": "1",
+          "Long": 105.8662117,
+          "Lat": 21.04624111,
+          "__OBJECTID": 52
+        }
+      },
+      {
+        "geometry": {
+          "x": 11783171.42,
+          "y": 2396630.51,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 7,
+          "Station": "Phung Hung",
+          "Line": "1",
+          "Long": 105.8500298,
+          "Lat": 21.03984669,
+          "__OBJECTID": 53
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782154.31,
+          "y": 2394768.35,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 8,
+          "Station": "Ga Ha Noi",
+          "Line": "1",
+          "Long": 105.840893,
+          "Lat": 21.02423298,
+          "__OBJECTID": 54
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782195.45,
+          "y": 2393155.33,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 9,
+          "Station": "Thong Nhat Park",
+          "Line": "1",
+          "Long": 105.8412625,
+          "Lat": 21.01070701,
+          "__OBJECTID": 55
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782180.96,
+          "y": 2391962.39,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 10,
+          "Station": "Bach Mai",
+          "Line": "1",
+          "Long": 105.8411324,
+          "Lat": 21.00070277,
+          "__OBJECTID": 56
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782165.87,
+          "y": 2390995.14,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 11,
+          "Station": "Phuong Liet",
+          "Line": "1",
+          "Long": 105.8409968,
+          "Lat": 20.99259075,
+          "__OBJECTID": 57
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782143.83,
+          "y": 2389373.67,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 12,
+          "Station": "Giap Bat",
+          "Line": "1",
+          "Long": 105.8407988,
+          "Lat": 20.97899105,
+          "__OBJECTID": 58
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782249.86,
+          "y": 2387793.08,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 13,
+          "Station": "Hoang Liet",
+          "Line": "1",
+          "Long": 105.8417513,
+          "Lat": 20.96573297,
+          "__OBJECTID": 59
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782489.59,
+          "y": 2385193.86,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 14,
+          "Station": "Van Dien",
+          "Line": "1",
+          "Long": 105.8439048,
+          "Lat": 20.94392804,
+          "__OBJECTID": 60
+        }
+      },
+      {
+        "geometry": {
+          "x": 11783400.54,
+          "y": 2382610.14,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 15,
+          "Station": "Ngoc Hoi",
+          "Line": "1",
+          "Long": 105.852088,
+          "Lat": 20.92224998,
+          "__OBJECTID": 61
+        }
+      },
+      {
+        "geometry": {
+          "x": 11787877.89,
+          "y": 2397712.98,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 16,
+          "Station": "BigC Long Bien",
+          "Line": "1",
+          "Long": 105.8923088,
+          "Lat": 21.04892209,
+          "__OBJECTID": 62
+        }
+      },
+      {
+        "geometry": {
+          "x": 11788561.91,
+          "y": 2396419.86,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 17,
+          "Station": "Phuc Dong",
+          "Line": "1",
+          "Long": 105.8984534,
+          "Lat": 21.03808047,
+          "__OBJECTID": 63
+        }
+      },
+      {
+        "geometry": {
+          "x": 11788961.22,
+          "y": 2396102.65,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 18,
+          "Station": "Sai Dong",
+          "Line": "1",
+          "Long": 105.9020405,
+          "Lat": 21.03542089,
+          "__OBJECTID": 64
+        }
+      },
+      {
+        "geometry": {
+          "x": 11790249.39,
+          "y": 2395456.1,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 19,
+          "Station": "Thach Ban",
+          "Line": "1",
+          "Long": 105.9136123,
+          "Lat": 21.02999977,
+          "__OBJECTID": 65
+        }
+      },
+      {
+        "geometry": {
+          "x": 11792991.12,
+          "y": 2394342.92,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 20,
+          "Station": "Co Bi",
+          "Line": "1",
+          "Long": 105.9382417,
+          "Lat": 21.02066571,
+          "__OBJECTID": 66
+        }
+      },
+      {
+        "geometry": {
+          "x": 11794655,
+          "y": 2393084.76,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 21,
+          "Station": "Trau Quy",
+          "Line": "1",
+          "Long": 105.9531886,
+          "Lat": 21.01011523,
+          "__OBJECTID": 67
+        }
+      },
+      {
+        "geometry": {
+          "x": 11795645.39,
+          "y": 2392292.18,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 23,
+          "Station": "Duong Xa",
+          "Line": "1",
+          "Long": 105.9620854,
+          "Lat": 21.00346851,
+          "__OBJECTID": 68
+        }
+      },
+      {
+        "geometry": {
+          "x": 11767093.01,
+          "y": 2403272.81,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 1,
+          "Station": "Lien Ha 1",
+          "Line": "4",
+          "Long": 105.705595,
+          "Lat": 21.09552697,
+          "__OBJECTID": 69
+        }
+      },
+      {
+        "geometry": {
+          "x": 11767861.34,
+          "y": 2402466.62,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 2,
+          "Station": "Lien Ha 2",
+          "Line": "4",
+          "Long": 105.712497,
+          "Lat": 21.08877004,
+          "__OBJECTID": 70
+        }
+      },
+      {
+        "geometry": {
+          "x": 11769950.73,
+          "y": 2401443.15,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 3,
+          "Station": "Tay Tuu 1",
+          "Line": "4",
+          "Long": 105.7312663,
+          "Lat": 21.08019155,
+          "__OBJECTID": 71
+        }
+      },
+      {
+        "geometry": {
+          "x": 11770550.93,
+          "y": 2400907.39,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 4,
+          "Station": "Tay Tuu 2",
+          "Line": "4",
+          "Long": 105.736658,
+          "Lat": 21.07570082,
+          "__OBJECTID": 72
+        }
+      },
+      {
+        "geometry": {
+          "x": 11772459.83,
+          "y": 2399950.42,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 5,
+          "Station": "Tay Tuu 3",
+          "Line": "4",
+          "Long": 105.753806,
+          "Lat": 21.06767902,
+          "__OBJECTID": 73
+        }
+      },
+      {
+        "geometry": {
+          "x": 11774448.44,
+          "y": 2399214.63,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 6,
+          "Station": "Tay Tuu 4",
+          "Line": "4",
+          "Long": 105.77167,
+          "Lat": 21.061511,
+          "__OBJECTID": 74
+        }
+      },
+      {
+        "geometry": {
+          "x": 11775733.29,
+          "y": 2398881.34,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 7,
+          "Station": "Co Nhue 1",
+          "Line": "4",
+          "Long": 105.783212,
+          "Lat": 21.05871699,
+          "__OBJECTID": 75
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776410.87,
+          "y": 2398076.2,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 8,
+          "Station": "Co Nhue 2",
+          "Line": "4",
+          "Long": 105.7892988,
+          "Lat": 21.05196722,
+          "__OBJECTID": 76
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776561.17,
+          "y": 2397354.13,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 9,
+          "Station": "Hoang Quoc Viet",
+          "Line": "4",
+          "Long": 105.7906489,
+          "Lat": 21.04591353,
+          "__OBJECTID": 77
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776449.29,
+          "y": 2396107.8,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 10,
+          "Station": "Xuan Thuy",
+          "Line": "4",
+          "Long": 105.7896439,
+          "Lat": 21.03546405,
+          "__OBJECTID": 78
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776508.35,
+          "y": 2394642.41,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 11,
+          "Station": "Yen Hoa",
+          "Line": "4",
+          "Long": 105.7901744,
+          "Lat": 21.02317698,
+          "__OBJECTID": 79
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777557.11,
+          "y": 2393129.11,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 12,
+          "Station": "Tran Duy Hung",
+          "Line": "4",
+          "Long": 105.7995956,
+          "Lat": 21.01048712,
+          "__OBJECTID": 80
+        }
+      },
+      {
+        "geometry": {
+          "x": 11778145.43,
+          "y": 2392498.36,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 13,
+          "Station": "Nhan Chinh",
+          "Line": "4",
+          "Long": 105.8048806,
+          "Lat": 21.00519762,
+          "__OBJECTID": 81
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779337.1,
+          "y": 2391813.59,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 14,
+          "Station": "So",
+          "Line": "4",
+          "Long": 105.8155855,
+          "Lat": 20.99945491,
+          "__OBJECTID": 82
+        }
+      },
+      {
+        "geometry": {
+          "x": 11780821.49,
+          "y": 2391963.49,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 15,
+          "Station": "Le Trong Tan",
+          "Line": "4",
+          "Long": 105.82892,
+          "Lat": 21.00071203,
+          "__OBJECTID": 83
+        }
+      },
+      {
+        "geometry": {
+          "x": 11781627.74,
+          "y": 2391741.96,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 16,
+          "Station": "Phuong Dinh",
+          "Line": "4",
+          "Long": 105.8361627,
+          "Lat": 20.99885413,
+          "__OBJECTID": 84
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782351.35,
+          "y": 2391552.11,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 17,
+          "Station": "Giap Bat",
+          "Line": "4",
+          "Long": 105.842663,
+          "Lat": 20.99726197,
+          "__OBJECTID": 85
+        }
+      },
+      {
+        "geometry": {
+          "x": 11783141.38,
+          "y": 2391388.16,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 18,
+          "Station": "Truong Dinh",
+          "Line": "4",
+          "Long": 105.84976,
+          "Lat": 20.99588697,
+          "__OBJECTID": 86
+        }
+      },
+      {
+        "geometry": {
+          "x": 11784170.23,
+          "y": 2391300.22,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 19,
+          "Station": "Den Lu 1",
+          "Line": "4",
+          "Long": 105.8590023,
+          "Lat": 20.99514944,
+          "__OBJECTID": 87
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782351.35,
+          "y": 2391552.11,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 20,
+          "Station": "Den Lu 2",
+          "Line": "4",
+          "Long": 105.842663,
+          "Lat": 20.99726197,
+          "__OBJECTID": 88
+        }
+      },
+      {
+        "geometry": {
+          "x": 11785103.1,
+          "y": 2391626.21,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 21,
+          "Station": "Kim Nguu",
+          "Line": "4",
+          "Long": 105.8673824,
+          "Lat": 20.99788341,
+          "__OBJECTID": 89
+        }
+      },
+      {
+        "geometry": {
+          "x": 11785550.91,
+          "y": 2391812.69,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 22,
+          "Station": "Vinh Tuy",
+          "Line": "4",
+          "Long": 105.8714051,
+          "Lat": 20.99944737,
+          "__OBJECTID": 90
+        }
+      },
+      {
+        "geometry": {
+          "x": 11788349.58,
+          "y": 2395118.97,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 23,
+          "Station": "Long Bien",
+          "Line": "4",
+          "Long": 105.896546,
+          "Lat": 21.02717298,
+          "__OBJECTID": 91
+        }
+      },
+      {
+        "geometry": {
+          "x": 11788969.18,
+          "y": 2396166.35,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 24,
+          "Station": "Sai Dong",
+          "Line": "4",
+          "Long": 105.902112,
+          "Lat": 21.03595496,
+          "__OBJECTID": 92
+        }
+      },
+      {
+        "geometry": {
+          "x": 11788584.31,
+          "y": 2396464.3,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 25,
+          "Station": "Mai Phuc",
+          "Line": "4",
+          "Long": 105.8986546,
+          "Lat": 21.03845312,
+          "__OBJECTID": 93
+        }
+      },
+      {
+        "geometry": {
+          "x": 11787919.62,
+          "y": 2397730.12,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 26,
+          "Station": "Gia Thuy Customs",
+          "Line": "4",
+          "Long": 105.8926836,
+          "Lat": 21.04906575,
+          "__OBJECTID": 94
+        }
+      },
+      {
+        "geometry": {
+          "x": 11787290.27,
+          "y": 2398603.29,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 27,
+          "Station": "Gia Lam",
+          "Line": "4",
+          "Long": 105.8870301,
+          "Lat": 21.05638602,
+          "__OBJECTID": 95
+        }
+      },
+      {
+        "geometry": {
+          "x": 11786722.43,
+          "y": 2399495.55,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 28,
+          "Station": "Z133",
+          "Line": "4",
+          "Long": 105.8819291,
+          "Lat": 21.06386597,
+          "__OBJECTID": 96
+        }
+      },
+      {
+        "geometry": {
+          "x": 11785871.74,
+          "y": 2401067.51,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 29,
+          "Station": "Dong Hoi",
+          "Line": "4",
+          "Long": 105.8742872,
+          "Lat": 21.07704294,
+          "__OBJECTID": 97
+        }
+      },
+      {
+        "geometry": {
+          "x": 11785321.93,
+          "y": 2402052.58,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 30,
+          "Station": "Trung Thon",
+          "Line": "4",
+          "Long": 105.8693482,
+          "Lat": 21.08529969,
+          "__OBJECTID": 98
+        }
+      },
+      {
+        "geometry": {
+          "x": 11784497.13,
+          "y": 2402997.7,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 31,
+          "Station": "Lang Dau",
+          "Line": "4",
+          "Long": 105.8619389,
+          "Lat": 21.09322122,
+          "__OBJECTID": 99
+        }
+      },
+      {
+        "geometry": {
+          "x": 11783188.37,
+          "y": 2404673.91,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 32,
+          "Station": "Xuan Canh",
+          "Line": "4",
+          "Long": 105.8501821,
+          "Lat": 21.10726925,
+          "__OBJECTID": 100
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782364.04,
+          "y": 2405773.73,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 33,
+          "Station": "Tam Xa Park",
+          "Line": "4",
+          "Long": 105.842777,
+          "Lat": 21.11648599,
+          "__OBJECTID": 101
+        }
+      },
+      {
+        "geometry": {
+          "x": 11781981.55,
+          "y": 2406220.4,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 34,
+          "Station": "Bac Thang Long Hai Boi",
+          "Line": "4",
+          "Long": 105.839341,
+          "Lat": 21.12022901,
+          "__OBJECTID": 102
+        }
+      },
+      {
+        "geometry": {
+          "x": 11781118.6,
+          "y": 2406737.61,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 35,
+          "Station": "Vinh Ngoc",
+          "Line": "4",
+          "Long": 105.831589,
+          "Lat": 21.12456302,
+          "__OBJECTID": 103
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777643.4,
+          "y": 2406729.23,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 36,
+          "Station": "Hai Boi",
+          "Line": "4",
+          "Long": 105.8003708,
+          "Lat": 21.1244928,
+          "__OBJECTID": 104
+        }
+      },
+      {
+        "geometry": {
+          "x": 11775856.65,
+          "y": 2406921.94,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 37,
+          "Station": "Metro Line 6",
+          "Line": "4",
+          "Long": 105.7843201,
+          "Lat": 21.12610764,
+          "__OBJECTID": 105
+        }
+      },
+      {
+        "geometry": {
+          "x": 11774913.45,
+          "y": 2406634.93,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 38,
+          "Station": "Vo Van Kiet",
+          "Line": "4",
+          "Long": 105.7758472,
+          "Lat": 21.12370262,
+          "__OBJECTID": 106
+        }
+      },
+      {
+        "geometry": {
+          "x": 11774484.45,
+          "y": 2406210.63,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 39,
+          "Station": "Thang Long IP",
+          "Line": "4",
+          "Long": 105.7719934,
+          "Lat": 21.12014713,
+          "__OBJECTID": 107
+        }
+      },
+      {
+        "geometry": {
+          "x": 11773536.07,
+          "y": 2406341.29,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 40,
+          "Station": "Dai Mach",
+          "Line": "4",
+          "Long": 105.763474,
+          "Lat": 21.12124203,
+          "__OBJECTID": 108
+        }
+      },
+      {
+        "geometry": {
+          "x": 11765253.79,
+          "y": 2401335.11,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 1,
+          "Station": "Duc Thuong",
+          "Line": "3",
+          "Long": 105.689073,
+          "Lat": 21.079286,
+          "__OBJECTID": 109
+        }
+      },
+      {
+        "geometry": {
+          "x": 11766910.22,
+          "y": 2400452.89,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 2,
+          "Station": "Tan Lap",
+          "Line": "3",
+          "Long": 105.703953,
+          "Lat": 21.071891,
+          "__OBJECTID": 110
+        }
+      },
+      {
+        "geometry": {
+          "x": 11770375.26,
+          "y": 2398680.23,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 3,
+          "Station": "Nhon",
+          "Line": "3",
+          "Long": 105.73508,
+          "Lat": 21.057031,
+          "__OBJECTID": 111
+        }
+      },
+      {
+        "geometry": {
+          "x": 11771446.38,
+          "y": 2397611.11,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 4,
+          "Station": "Minh Khai",
+          "Line": "3",
+          "Long": 105.744702,
+          "Lat": 21.048068,
+          "__OBJECTID": 112
+        }
+      },
+      {
+        "geometry": {
+          "x": 11772635.38,
+          "y": 2397109.79,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 5,
+          "Station": "Phu Dien",
+          "Line": "3",
+          "Long": 105.755383,
+          "Lat": 21.043865,
+          "__OBJECTID": 113
+        }
+      },
+      {
+        "geometry": {
+          "x": 11773422.64,
+          "y": 2396804.21,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 6,
+          "Station": "Cau Dien",
+          "Line": "3",
+          "Long": 105.762455,
+          "Lat": 21.041303,
+          "__OBJECTID": 114
+        }
+      },
+      {
+        "geometry": {
+          "x": 11774591.05,
+          "y": 2396415.15,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 7,
+          "Station": "Le Duc Tho",
+          "Line": "3",
+          "Long": 105.772951,
+          "Lat": 21.038041,
+          "__OBJECTID": 115
+        }
+      },
+      {
+        "geometry": {
+          "x": 11775686.65,
+          "y": 2396248.89,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 8,
+          "Station": "HN VNU",
+          "Line": "3",
+          "Long": 105.782793,
+          "Lat": 21.036647,
+          "__OBJECTID": 116
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776986.53,
+          "y": 2396037.31,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 9,
+          "Station": "Chua Ha",
+          "Line": "3",
+          "Long": 105.79447,
+          "Lat": 21.034873,
+          "__OBJECTID": 117
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777542.12,
+          "y": 2395692.63,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 10,
+          "Station": "Cau Giay",
+          "Line": "3",
+          "Long": 105.799461,
+          "Lat": 21.031983,
+          "__OBJECTID": 118
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777973.82,
+          "y": 2395363.7,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 11,
+          "Station": "Kim Ma",
+          "Line": "3",
+          "Long": 105.803339,
+          "Lat": 21.029225,
+          "__OBJECTID": 119
+        }
+      },
+      {
+        "geometry": {
+          "x": 11780619.22,
+          "y": 2395417.01,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 12,
+          "Station": "Cat Linh",
+          "Line": "3",
+          "Long": 105.827103,
+          "Lat": 21.029672,
+          "__OBJECTID": 120
+        }
+      },
+      {
+        "geometry": {
+          "x": 11781534.26,
+          "y": 2395138.29,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 13,
+          "Station": "Van Mieu",
+          "Line": "3",
+          "Long": 105.835323,
+          "Lat": 21.027335,
+          "__OBJECTID": 121
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782043.11,
+          "y": 2394917.78,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 14,
+          "Station": "HN Train Station",
+          "Line": "3",
+          "Long": 105.839894,
+          "Lat": 21.025486,
+          "__OBJECTID": 122
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782759.22,
+          "y": 2394595.07,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 15,
+          "Station": "Da Tuong",
+          "Line": "3",
+          "Long": 105.846327,
+          "Lat": 21.02278,
+          "__OBJECTID": 123
+        }
+      },
+      {
+        "geometry": {
+          "x": 11784217.62,
+          "y": 2393784.85,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 16,
+          "Station": "Tran Khanh Du",
+          "Line": "3",
+          "Long": 105.859428,
+          "Lat": 21.015986,
+          "__OBJECTID": 124
+        }
+      },
+      {
+        "geometry": {
+          "x": 11784697.41,
+          "y": 2390008.3,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 17,
+          "Station": "Den Lu",
+          "Line": "3",
+          "Long": 105.863738,
+          "Lat": 20.984314,
+          "__OBJECTID": 125
+        }
+      },
+      {
+        "geometry": {
+          "x": 11785303.88,
+          "y": 2387548.7,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 18,
+          "Station": "Yen So",
+          "Line": "3",
+          "Long": 105.869186,
+          "Lat": 20.963683,
+          "__OBJECTID": 126
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779446.13,
+          "y": 2396929.92,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 1,
+          "Station": "Nam Ho Tay",
+          "Line": "5",
+          "Long": 105.816565,
+          "Lat": 21.042357,
+          "__OBJECTID": 127
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779074.21,
+          "y": 2395614.39,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 2,
+          "Station": "Ngoc Khanh",
+          "Line": "5",
+          "Long": 105.813224,
+          "Lat": 21.031327,
+          "__OBJECTID": 128
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776720.92,
+          "y": 2392499.24,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 3,
+          "Station": "Thang Long Blvd",
+          "Line": "5",
+          "Long": 105.792084,
+          "Lat": 21.005205,
+          "__OBJECTID": 129
+        }
+      },
+      {
+        "geometry": {
+          "x": 11769733.84,
+          "y": 2393144.48,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 4,
+          "Station": "An Khanh",
+          "Line": "5",
+          "Long": 105.729318,
+          "Lat": 21.010616,
+          "__OBJECTID": 130
+        }
+      },
+      {
+        "geometry": {
+          "x": 11766501.12,
+          "y": 2392792.22,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 5,
+          "Station": "Ring Road 4",
+          "Line": "5",
+          "Long": 105.700278,
+          "Lat": 21.007662,
+          "__OBJECTID": 131
+        }
+      },
+      {
+        "geometry": {
+          "x": 11747437.1,
+          "y": 2390775.54,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 6,
+          "Station": "Hoa Lac",
+          "Line": "5",
+          "Long": 105.529023,
+          "Lat": 20.990749,
+          "__OBJECTID": 132
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777827.99,
+          "y": 2417313.03,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 1,
+          "Station": "Noi Bai",
+          "Line": "6",
+          "Long": 105.802029,
+          "Lat": 21.213153,
+          "__OBJECTID": 133
+        }
+      },
+      {
+        "geometry": {
+          "x": 11775241.71,
+          "y": 2417219.89,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 2,
+          "Station": "Phu Cuong",
+          "Line": "6",
+          "Long": 105.778796,
+          "Lat": 21.212373,
+          "__OBJECTID": 134
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776563.29,
+          "y": 2412642.42,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 3,
+          "Station": "Nam Hong",
+          "Line": "6",
+          "Long": 105.790668,
+          "Lat": 21.174034,
+          "__OBJECTID": 135
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776446.07,
+          "y": 2408764.7,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 4,
+          "Station": "Kim No",
+          "Line": "6",
+          "Long": 105.789615,
+          "Lat": 21.141548,
+          "__OBJECTID": 136
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776250.04,
+          "y": 2406970.2,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 5,
+          "Station": "Hai Boi",
+          "Line": "6",
+          "Long": 105.787854,
+          "Lat": 21.126512,
+          "__OBJECTID": 137
+        }
+      },
+      {
+        "geometry": {
+          "x": 11775961.72,
+          "y": 2401941.54,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 6,
+          "Station": "Nam Thang Long",
+          "Line": "6",
+          "Long": 105.785264,
+          "Lat": 21.084369,
+          "__OBJECTID": 138
+        }
+      },
+      {
+        "geometry": {
+          "x": 11772612.45,
+          "y": 2397118.14,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 7,
+          "Station": "Phu Dien",
+          "Line": "6",
+          "Long": 105.755177,
+          "Lat": 21.043935,
+          "__OBJECTID": 139
+        }
+      },
+      {
+        "geometry": {
+          "x": 11772287.62,
+          "y": 2395999.5,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 8,
+          "Station": "Xuan Phuong",
+          "Line": "6",
+          "Long": 105.752259,
+          "Lat": 21.034556,
+          "__OBJECTID": 140
+        }
+      },
+      {
+        "geometry": {
+          "x": 11771037.39,
+          "y": 2393280.54,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 9,
+          "Station": "Tay Mo",
+          "Line": "6",
+          "Long": 105.741028,
+          "Lat": 21.011757,
+          "__OBJECTID": 141
+        }
+      },
+      {
+        "geometry": {
+          "x": 11770338.2,
+          "y": 2391389.83,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 10,
+          "Station": "Duong Noi",
+          "Line": "6",
+          "Long": 105.734747,
+          "Lat": 20.995901,
+          "__OBJECTID": 142
+        }
+      },
+      {
+        "geometry": {
+          "x": 11771384.04,
+          "y": 2387175.58,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 11,
+          "Station": "Le Van Luong",
+          "Line": "6",
+          "Long": 105.744142,
+          "Lat": 20.960553,
+          "__OBJECTID": 143
+        }
+      },
+      {
+        "geometry": {
+          "x": 11774071.85,
+          "y": 2385926.8,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 12,
+          "Station": "Ha Dong",
+          "Line": "6",
+          "Long": 105.768287,
+          "Lat": 20.950077,
+          "__OBJECTID": 144
+        }
+      },
+      {
+        "geometry": {
+          "x": 11775250.95,
+          "y": 2385557.88,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 13,
+          "Station": "Phu Luong",
+          "Line": "6",
+          "Long": 105.778879,
+          "Lat": 20.946982,
+          "__OBJECTID": 145
+        }
+      },
+      {
+        "geometry": {
+          "x": 11779330.03,
+          "y": 2383716.98,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 14,
+          "Station": "Dai Ang",
+          "Line": "6",
+          "Long": 105.815522,
+          "Lat": 20.931537,
+          "__OBJECTID": 146
+        }
+      },
+      {
+        "geometry": {
+          "x": 11781535.6,
+          "y": 2383478.37,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 15,
+          "Station": "Vinh Quynh",
+          "Line": "6",
+          "Long": 105.835335,
+          "Lat": 20.929535,
+          "__OBJECTID": 147
+        }
+      },
+      {
+        "geometry": {
+          "x": 11783275.52,
+          "y": 2382855.29,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 16,
+          "Station": "Ngoc Hoi",
+          "Line": "6",
+          "Long": 105.850965,
+          "Lat": 20.924307,
+          "__OBJECTID": 148
+        }
+      },
+      {
+        "geometry": {
+          "x": 11773128.53,
+          "y": 2412024.77,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 1,
+          "Station": "Me Linh",
+          "Line": "7",
+          "Long": 105.759813,
+          "Lat": 21.16886,
+          "__OBJECTID": 149
+        }
+      },
+      {
+        "geometry": {
+          "x": 11773251.76,
+          "y": 2410842.04,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 2,
+          "Station": "Tien Phong",
+          "Line": "7",
+          "Long": 105.76092,
+          "Lat": 21.158952,
+          "__OBJECTID": 150
+        }
+      },
+      {
+        "geometry": {
+          "x": 11773510.13,
+          "y": 2406396.66,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 3,
+          "Station": "Dai Mach",
+          "Line": "7",
+          "Long": 105.763241,
+          "Lat": 21.121706,
+          "__OBJECTID": 151
+        }
+      },
+      {
+        "geometry": {
+          "x": 11770877.98,
+          "y": 2402300.66,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 4,
+          "Station": "Tay Tuu",
+          "Line": "7",
+          "Long": 105.739596,
+          "Lat": 21.087379,
+          "__OBJECTID": 152
+        }
+      },
+      {
+        "geometry": {
+          "x": 11770065.02,
+          "y": 2398625.24,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 5,
+          "Station": "Nhon",
+          "Line": "7",
+          "Long": 105.732293,
+          "Lat": 21.05657,
+          "__OBJECTID": 153
+        }
+      },
+      {
+        "geometry": {
+          "x": 11769112.79,
+          "y": 2395892.99,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 6,
+          "Station": "Van Canh",
+          "Line": "7",
+          "Long": 105.723739,
+          "Lat": 21.033663,
+          "__OBJECTID": 154
+        }
+      },
+      {
+        "geometry": {
+          "x": 11769873.99,
+          "y": 2393179.77,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 7,
+          "Station": "Thang Long Blvd",
+          "Line": "7",
+          "Long": 105.730577,
+          "Lat": 21.010912,
+          "__OBJECTID": 155
+        }
+      },
+      {
+        "geometry": {
+          "x": 11770344.32,
+          "y": 2391409.03,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 8,
+          "Station": "Duong Noi",
+          "Line": "7",
+          "Long": 105.734802,
+          "Lat": 20.996062,
+          "__OBJECTID": 156
+        }
+      },
+      {
+        "geometry": {
+          "x": 11770905.81,
+          "y": 2390102.85,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 9,
+          "Station": "La Phu",
+          "Line": "7",
+          "Long": 105.739846,
+          "Lat": 20.985107,
+          "__OBJECTID": 157
+        }
+      },
+      {
+        "geometry": {
+          "x": 11772428.66,
+          "y": 2388138.56,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 10,
+          "Station": "Van Phu",
+          "Line": "7",
+          "Long": 105.753526,
+          "Lat": 20.968631,
+          "__OBJECTID": 158
+        }
+      },
+      {
+        "geometry": {
+          "x": 11774070.85,
+          "y": 2385927.51,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 11,
+          "Station": "Ha Dong",
+          "Line": "7",
+          "Long": 105.768278,
+          "Lat": 20.950083,
+          "__OBJECTID": 159
+        }
+      },
+      {
+        "geometry": {
+          "x": 11766280.6,
+          "y": 2394146.9,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 1,
+          "Station": "Hoai Duc",
+          "Line": "8",
+          "Long": 105.698297,
+          "Lat": 21.019022,
+          "__OBJECTID": 160
+        }
+      },
+      {
+        "geometry": {
+          "x": 11765618.81,
+          "y": 2397428.37,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 2,
+          "Station": "Son Dong",
+          "Line": "8",
+          "Long": 105.692352,
+          "Lat": 21.046536,
+          "__OBJECTID": 161
+        }
+      },
+      {
+        "geometry": {
+          "x": 11769632.65,
+          "y": 2397353.23,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 3,
+          "Station": "Metro 7",
+          "Line": "8",
+          "Long": 105.728409,
+          "Lat": 21.045906,
+          "__OBJECTID": 162
+        }
+      },
+      {
+        "geometry": {
+          "x": 11772624.03,
+          "y": 2397117.78,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 4,
+          "Station": "Phu Dien",
+          "Line": "8",
+          "Long": 105.755281,
+          "Lat": 21.043932,
+          "__OBJECTID": 163
+        }
+      },
+      {
+        "geometry": {
+          "x": 11775517.22,
+          "y": 2397299.44,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 5,
+          "Station": "Mai Dich 1",
+          "Line": "8",
+          "Long": 105.781271,
+          "Lat": 21.045455,
+          "__OBJECTID": 164
+        }
+      },
+      {
+        "geometry": {
+          "x": 11775407.24,
+          "y": 2396259.5,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 6,
+          "Station": "Mai Dich 2",
+          "Line": "8",
+          "Long": 105.780283,
+          "Lat": 21.036736,
+          "__OBJECTID": 165
+        }
+      },
+      {
+        "geometry": {
+          "x": 11775269.09,
+          "y": 2394525.42,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 7,
+          "Station": "My Dinh",
+          "Line": "8",
+          "Long": 105.779042,
+          "Lat": 21.022196,
+          "__OBJECTID": 166
+        }
+      },
+      {
+        "geometry": {
+          "x": 11776628.53,
+          "y": 2392586.29,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 8,
+          "Station": "Exhibition Center",
+          "Line": "8",
+          "Long": 105.791254,
+          "Lat": 21.005935,
+          "__OBJECTID": 167
+        }
+      },
+      {
+        "geometry": {
+          "x": 11777918.5,
+          "y": 2390885.11,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 9,
+          "Station": "Thuong Dinh",
+          "Line": "8",
+          "Long": 105.802842,
+          "Lat": 20.991668,
+          "__OBJECTID": 168
+        }
+      },
+      {
+        "geometry": {
+          "x": 11778574.39,
+          "y": 2389994.71,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 10,
+          "Station": "Tan Trieu",
+          "Line": "8",
+          "Long": 105.808734,
+          "Lat": 20.9842,
+          "__OBJECTID": 169
+        }
+      },
+      {
+        "geometry": {
+          "x": 11780628.46,
+          "y": 2388281.5,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 11,
+          "Station": "Linh Dam",
+          "Line": "8",
+          "Long": 105.827186,
+          "Lat": 20.96983,
+          "__OBJECTID": 170
+        }
+      },
+      {
+        "geometry": {
+          "x": 11782285.45,
+          "y": 2387799.28,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 12,
+          "Station": "Phap Van",
+          "Line": "8",
+          "Long": 105.842071,
+          "Lat": 20.965785,
+          "__OBJECTID": 171
+        }
+      },
+      {
+        "geometry": {
+          "x": 11785258.46,
+          "y": 2387606.4,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 13,
+          "Station": "Yen So",
+          "Line": "8",
+          "Long": 105.868778,
+          "Lat": 20.964167,
+          "__OBJECTID": 172
+        }
+      },
+      {
+        "geometry": {
+          "x": 11787902.85,
+          "y": 2389165.38,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 14,
+          "Station": "Linh Nam",
+          "Line": "8",
+          "Long": 105.892533,
+          "Lat": 20.977244,
+          "__OBJECTID": 173
+        }
+      },
+      {
+        "geometry": {
+          "x": 11790818.42,
+          "y": 2389321.92,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 15,
+          "Station": "Bat Trang",
+          "Line": "8",
+          "Long": 105.918724,
+          "Lat": 20.978557,
+          "__OBJECTID": 174
+        }
+      },
+      {
+        "geometry": {
+          "x": 11793491.87,
+          "y": 2390693.03,
+          "spatialReference": {
+            "wkid": 102100
+          }
+        },
+        "attributes": {
+          "Order_": 16,
+          "Station": "Da Ton",
+          "Line": "8",
+          "Long": 105.94274,
+          "Lat": 20.990057,
+          "__OBJECTID": 175
+        }
+      }
+    ]
+  }
